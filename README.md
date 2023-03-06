@@ -1,3 +1,11 @@
+
+![Logo](https://sp-convergence.org/wp-content/uploads/2021/11/cropped-Logotipo1-3.png)
+# openCRVS and DCI
+
+This repository is currently archived in the DCI repository, as it has been forked of openCRVS **without modifications**.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"> <a href="https://www.opencrvs.org"><img src="https://i.imgur.com/W7ULmox.png" title="source: imgur.com" / style="max-width:100%;"width="72" height="72"></a>
 </p>
 <h3 align="center">OpenCRVS</h3>
